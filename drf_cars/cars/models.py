@@ -1,7 +1,7 @@
 from django.contrib.auth import get_user_model
 from django.db import models
 
-User = get_user_model
+User = get_user_model()
 
 class Car(models.Model):
     vin = models.CharField(verbose_name='Vin', db_index=True, unique=True, max_length=50)
