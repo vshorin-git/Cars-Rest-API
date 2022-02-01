@@ -5,12 +5,8 @@ This project created for practice in Django REST Framework. There is one table C
 
 ### Technologies
 - Python 3.10
-<<<<<<< HEAD
 - Django 4.0.2
 - Djando Rest Framework 3.13.1
-=======
-- Django 4.0.1
->>>>>>> 6d372f7075012bf4a99df0a79de95d28394b5f25
 ___
 ### Installation
 ###### Clone repository
